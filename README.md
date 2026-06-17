@@ -15,7 +15,7 @@
 
 - *Building intelligent software** -Building intelligent software - Creating applications that combine AI, automation, and modern backend engineering
 - *Contributing to open source** - Learning from and giving back to the developer community
-- **Turning ideas into products** -Rapidly prototyping ojects and learning through hands-on development
+- **Turning ideas into products** -Rapidly prototyping Projects and learning through hands-on development
 - **Documenting the process** - Sharing projects, experiments, and lessons learned along the way
 
 
@@ -26,7 +26,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhv19)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://vaibhv19.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
