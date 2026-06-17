@@ -21,7 +21,7 @@
 
 ### Philosophy
 
-> "Learn, build, improve." I believe the best way to understand technology is by creating with it. Every project is an opportunity to solve a real problem, sharpen my skills, and become a better engineer than I was yesterday.
+> *"Learn, build, improve."* I believe the best way to understand technology is by creating with it. Every project is an opportunity to solve a real problem, sharpen my skills, and become a better engineer than I was yesterday.
 
 <details>
 <summary>Random Facts</summary>
