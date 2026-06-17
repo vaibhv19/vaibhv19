@@ -13,11 +13,11 @@
 
 ## What I'm Doing
 
-- *Building intelligent software** -Building intelligent software - Creating applications that combine AI, automation, and modern backend engineering
-- *Contributing to open source** - Learning from and giving back to the developer community
-- **Turning ideas into products** -Rapidly prototyping Projects and learning through hands-on development
-- **Documenting the process** - Sharing projects, experiments, and lessons learned along the way
-- **Continuous self-improvement** - Balancing technology, fitness, learning, and personal growth one step at a time
+- *Building intelligent software* - Creating applications that combine AI, automation, and modern backend engineering
+- *Contributing to open source* - Learning from and giving back to the developer community
+- *Turning ideas into products* - Rapidly prototyping Projects and learning through hands-on development
+- *Documenting the process* - Sharing projects, experiments, and lessons learned along the way
+- *Continuous self-improvement* - Balancing technology, fitness, learning, and personal growth one step at a time
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhv19&limit=5&theme=dark&combine_all_yearly_contributions=true)
