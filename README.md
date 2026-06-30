@@ -8,7 +8,7 @@
 
 ## Build Lab
 ### *Featured*
-To be declared------
+To be Published------
 
 
 ### *Learning Engineering and Foundational Computer Science*
@@ -27,7 +27,10 @@ To be declared------
 
 
 ### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering.*
-To be declared----
+To be Published----
+
+### *Event-driven scripts, CI/CD configurations, and background process automation.*
+To be Published----
 
 ### *Retired explorations and early builds used to learn system architecture.*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
