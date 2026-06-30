@@ -18,18 +18,18 @@ To be Published------
 * **[Git Test](https://github.com/vaibhv19/Git-test)** — Sandbox environment for mastering version control workflows and branching strategies.
 
 
-### *Academic milestones, formal coursework projects*
+### *Academic milestones- formal coursework projects*
 * **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
 
 
-### *Technical training frameworks, and practical modules.*
+### *Technical training frameworks and practical modules.*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
 
 
 ### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering.*
 To be Published----
 
-### *Event-driven scripts, CI/CD configurations, and background process automation.*
+### *Event-driven scripts and background process automation.*
 To be Published----
 
 ### *Retired explorations and early builds used to learn system architecture.*
