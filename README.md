@@ -4,9 +4,22 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
+*An engineering student building software driven by deep technical curiosity and the continuous pursuit of personal growth.*
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhv19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Build Lab
+*Retired explorations and early builds used to learn system architecture.*
 
+* **[AI-Powered Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
+* **[AI Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
+* **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Identity management service implemented to practice secure token-based user authentication workflows.
+* **[Ticket Booking System](https://github.com/vaibhv19/Ticket-booking-system)** — Concurrency and database entity-mapping exploration handling seat allocations.
+* **[Desktop Applications Suite](https://github.com/vaibhv19/Desktop-Applications-Suite)** — Native desktop utility programs built to practice local GUI components.
+* **[StreamVerse UI](https://github.com/vaibhv19/StreamVerse-UI)** — Iterative frontend video-streaming layout designed using AI-assisted pair programming.
+* **[High-Performance Socket Servers](https://github.com/vaibhv19/High-Performance-Socket-Servers)** — Networking project focused on handling low-level TCP/IP connections and streaming data.
+* **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Information retrieval tool focused on parsing text and summarizing query results.
+* **[AI Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — API consumption project designed to process text prompts and generate dynamic digital assets.
+* **[My Portfolio](https://github.com/vaibhv19/My-Portfolio)** — Initial personal web deployment and experimental style showcase, now retired.
+* **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Clean architecture project layout and structural design testing repository.
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
 
