@@ -7,24 +7,38 @@
 *An engineering student building software driven by deep technical curiosity and the continuous pursuit of personal growth.*
 
 ## Build Lab
-*Learning Engineering and foundational computer science*
+### *Featured*
+To be declared------
+
+
+### *Learning Engineering and foundational computer science*
 * **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
 * **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
 * **[Git Test](https://github.com/vaibhv19/Git-test)** — Sandbox environment for mastering version control workflows and branching strategies.
 
 
-*Retired explorations and early builds used to learn system architecture.*
+### *Academic milestones, formal coursework projects*
+* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
 
-* **[AI-Powered Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
-* **[AI Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
+
+### *Technical training frameworks, and practical modules.*
+* **[Lenovo Leap Virtual Internship](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
+
+
+### *Projects built with zero commercial or placement utility—just deep curiosity and the pure joy of engineering.*
+To be declared----
+
+### *Retired explorations and early builds used to learn system architecture.*
+* **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
+* **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
 * **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Identity management service implemented to practice secure token-based user authentication workflows.
 * **[Ticket Booking System](https://github.com/vaibhv19/Ticket-booking-system)** — Concurrency and database entity-mapping exploration handling seat allocations.
 * **[Desktop Applications Suite](https://github.com/vaibhv19/Desktop-Applications-Suite)** — Native desktop utility programs built to practice local GUI components.
 * **[StreamVerse UI](https://github.com/vaibhv19/StreamVerse-UI)** — Iterative frontend video-streaming layout designed using AI-assisted pair programming.
 * **[High-Performance Socket Servers](https://github.com/vaibhv19/High-Performance-Socket-Servers)** — Networking project focused on handling low-level TCP/IP connections and streaming data.
 * **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Information retrieval tool focused on parsing text and summarizing query results.
-* **[AI Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — API consumption project designed to process text prompts and generate dynamic digital assets.
+* **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — API consumption project designed to process text prompts and generate dynamic digital assets.
 * **[My Portfolio](https://github.com/vaibhv19/My-Portfolio)** — Initial personal web deployment and experimental style showcase, now retired.
 * **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Clean architecture project layout and structural design testing repository.
 
