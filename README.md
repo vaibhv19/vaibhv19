@@ -26,7 +26,7 @@ To be declared------
 * **[Lenovo Leap Virtual Internship](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
 
 
-### *Projects built with zero commercial or placement utility—just deep curiosity and the pure joy of engineering.*
+### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering.*
 To be declared----
 
 ### *Retired explorations and early builds used to learn system architecture.*
