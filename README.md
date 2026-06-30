@@ -11,7 +11,7 @@
 To be declared------
 
 
-### *Learning Engineering and foundational computer science*
+### *Learning Engineering and Foundational Computer Science*
 * **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
 * **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
@@ -23,7 +23,7 @@ To be declared------
 
 
 ### *Technical training frameworks, and practical modules.*
-* **[Lenovo Leap Virtual Internship](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
+* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
 
 
 ### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering.*
