@@ -7,6 +7,13 @@
 *An engineering student building software driven by deep technical curiosity and the continuous pursuit of personal growth.*
 
 ## Build Lab
+*Learning Engineering and foundational computer science*
+* **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
+* **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
+* **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
+* **[Git Test](https://github.com/vaibhv19/Git-test)** — Sandbox environment for mastering version control workflows and branching strategies.
+
+
 *Retired explorations and early builds used to learn system architecture.*
 
 * **[AI-Powered Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
