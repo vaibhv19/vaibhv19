@@ -6,11 +6,10 @@
 
 *An engineering student building software driven by deep technical curiosity and the continuous pursuit of personal growth.*
 
-## Build Lab
-### *Featured*
-To be Published------
+## Active Projects
+To be Published
 
-
+## Featured
 ### *Learning Engineering and Foundational Computer Science*
 * **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
