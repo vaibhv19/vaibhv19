@@ -9,6 +9,9 @@
 
 
 ## Featured 
+### *So I built my own*
+- **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Local-first chess analysis workbench with free engine-powered game review.
+  
 ### *Learning Engineering and Foundational Computer Science*
 * **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
@@ -20,17 +23,17 @@
 * **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
 
 
-### *Technical training frameworks and practical modules.*
+### *Technical training frameworks and practical modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
 
 
-### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering.*
+### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering*
 To be Published----
 
-### *Event-driven scripts and background process automation.*
+### *Event-driven scripts and background process automation*
 To be Published----
 
-### *Retired explorations and early builds used to learn system architecture.*
+### *Retired explorations and early builds used to learn system architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
 * **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
 * **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Identity management service implemented to practice secure token-based user authentication workflows.
