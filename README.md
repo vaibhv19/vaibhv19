@@ -4,7 +4,8 @@
 
 *Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
-
+> **What does "Polytool Builder" mean?**
+> I don't believe in committing to one tech stack. I pick the right tool for the problem and enjoy learning whatever helps me build better software.
 
 ## Featured 
 ### *So I built my own*
@@ -27,10 +28,10 @@
 
 
 ### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering*
-To be Published----
+On the Drawing Board----
 
 ### *Event-driven scripts and background process automation*
-To be Published----
+On the Drawing Board----
 
 ### *Retired explorations and early builds used to learn system architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
@@ -64,9 +65,9 @@ To be Published----
 <summary>Random Facts</summary>
 
 - Powered by black coffee
-- Turning "what if..." into side projects
-- Can spend hours designing a project and even longer naming it
 - Gym enthusiast (when not fighting bugs)
+- Usually builds tools for problems nobody asked to solve.
+- Can spend hours designing a project and even longer naming it
 - Documenting the journey one commit at a time
 
 </details>
@@ -75,7 +76,7 @@ To be Published----
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
-[![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vaibhv_19)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhv19)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://vaibhv19.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
