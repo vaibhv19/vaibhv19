@@ -33,6 +33,7 @@ On the Drawing Board----
 On the Drawing Board----
 
 ### *Retired explorations and early builds used to learn system architecture*
+**Summary:**
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
 * **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
 * **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Identity management service implemented to practice secure token-based user authentication workflows.
