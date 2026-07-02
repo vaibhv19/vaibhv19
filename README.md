@@ -2,7 +2,7 @@
 **Gr. Noida ↔ GKP** |  **Polytool Builder** |  **Final year @ GNIOT**
 
 
-*An engineering student building software driven by deep technical curiosity and the continuous pursuit of personal growth.*
+*Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
 
 
