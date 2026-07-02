@@ -15,7 +15,7 @@
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
 * **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
 * **[Git Test](https://github.com/vaibhv19/Git-test)** — Sandbox environment for mastering version control workflows and branching strategies.
-* **[JavaScript](https://github.com/vaibhv19/JS-for-React)** — All the JavaScript needed to know for React.
+* **[JavaScript](https://github.com/vaibhv19/JS-for-React)** — Just enough JavaScript needed to know for React.
 
 
 ### *Academic milestones- formal coursework projects*
