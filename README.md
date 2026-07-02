@@ -1,14 +1,6 @@
 # Hi, I'm Vaibhav 
 **Gr. Noida ↔ GKP** |  **Polytool Builder** |  **Final year @ GNIOT**
 
-
-*Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
-
-> **What does "Polytool Builder" mean?**
-> I don't believe in# Hi, I'm Vaibhav 
-**Gr. Noida ↔ GKP** |  **Polytool Builder** |  **Final year @ GNIOT**
-
-
 *Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
 > **What does "Polytool Builder" mean?**
