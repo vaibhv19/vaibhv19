@@ -42,7 +42,6 @@ On the Drawing Board----
 * **[High-Performance Socket Servers](https://github.com/vaibhv19/High-Performance-Socket-Servers)** — Networking project focused on handling low-level TCP/IP connections and streaming data.
 * **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Information retrieval tool focused on parsing text and summarizing query results.
 * **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — API consumption project designed to process text prompts and generate dynamic digital assets.
-* **[My Portfolio](https://github.com/vaibhv19/My-Portfolio)** — Initial personal web deployment and experimental style showcase, now retired.
 * **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Clean architecture project layout and structural design testing repository.
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
