@@ -11,10 +11,10 @@
 - **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Local-first chess analysis workbench with free engine-powered game review.
   
 ### *Learning Engineering and Foundational Computer Science*
-* **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
-* **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
-* **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
 * **[Git Test](https://github.com/vaibhv19/Git-test)** — Sandbox environment for mastering version control workflows and branching strategies.
+* **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
+* **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
+* **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
 * **[JavaScript](https://github.com/vaibhv19/JS-for-React)** — Just enough JavaScript needed to know for React.
 
 
