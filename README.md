@@ -21,13 +21,6 @@
 ### *Technical training frameworks and practical modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
 
-
-### *Projects built with zero commercial utility—just deep curiosity and the pure joy of engineering*
-On the Drawing Board----
-
-### *Event-driven scripts and background process automation*
-On the Drawing Board----
-
 ### *Retired explorations and early builds used to learn system architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
 * **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
