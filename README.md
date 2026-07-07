@@ -17,9 +17,9 @@
 ### *Academic milestones- formal coursework projects*
 * **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
 
-
 ### *Technical training frameworks and practical modules*
-* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Virtual internship repository containing structured coursework and practical training modules.
+* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Because a resume needs one of these.
+* **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
 
 ### *Retired explorations and early builds used to learn system architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
