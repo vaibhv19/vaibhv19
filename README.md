@@ -7,7 +7,7 @@
 
 ## Featured 
 ### *So I built my own*
-- **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Local-first chess analysis workbench with free engine-powered game review.
+* **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Local-first chess analysis workbench with free engine-powered game review.
   
 ### *Learning Engineering and Foundational Computer Science*
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
