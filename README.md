@@ -6,22 +6,22 @@
 > I don't believe in tying myself to one tech stack. I pick the right tool for the problem and enjoy learning whatever helps me build better software.
 
 ## Featured 
-### *So I built my own*
+### *So I Built My Own*
 * **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Local-first chess analysis workbench with free engine-powered game review.
+
+### *Academic Milestones- Formal Coursework Projects*
+* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
+
+### *Technical Training Frameworks and Practical Modules*
+* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Because a resume needs one of these.
+* **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
   
 ### *Learning Engineering and Foundational Computer Science*
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Repository tracking algorithmic patterns and optimized data structure problem-solving.
 * **[Java](https://github.com/vaibhv19/Java-Practice)** — Core language playground focused on OOPs, collections, and syntax fundamentals.
 * **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — Sequential script repository breaking down language syntax and foundational scripting.
 
-### *Academic milestones- formal coursework projects*
-* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Computer vision implementation designed to detect and categorize environmental debris.
-
-### *Technical training frameworks and practical modules*
-* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Because a resume needs one of these.
-* **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
-
-### *Retired explorations and early builds used to learn system architecture*
+### *Retired Explorations and Early Builds Used To learn System Architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Full-stack microservices build exploring asynchronous messaging and LLM integration.
 * **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Local media pipeline built to process audio files and generate text transcripts via AI.
 * **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Identity management service implemented to practice secure token-based user authentication workflows.
