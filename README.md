@@ -33,6 +33,8 @@
 * **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Read the internet so I didn't have to.
 * **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — Prompted a machine, called it a project.
 * **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** —Practiced being organized, once.
+
+
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
 
 
