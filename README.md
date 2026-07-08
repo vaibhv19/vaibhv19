@@ -10,11 +10,12 @@
 * **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
 
 ### *Academic Milestones- Formal Coursework Projects*
-* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot trash, for a grade.
+* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. College happened to give me marks for it.
 
 ### *Technical Training Frameworks and Practical Modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Because a resume needs one of these.
 * **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
+  * [Startup Blueprint Generator](https://github.com/vaibhv19/IBM-Skillbuild/tree/main/Final%20Project-Startup%20Blueprint%20Generator%20Agent) - Agentic RAG that's more organized about your startup than you are. 
   
 ### *Learning Engineering and Foundational Computer Science*
 * **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Patterns I keep forgetting and re-learning.
