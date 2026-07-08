@@ -14,6 +14,7 @@
 
 ### *Technical Training Frameworks and Practical Modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Learned a few things. Got a certificate too.
+  * [VidyaLink](https://github.com/vaibhv19/Lenovo-leap-Internship/tree/main/Final%20Project-%20VidyaLink) - Open-access resource vault running entirely on localStorage because server costs are a scam.
 * **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
   * [Startup Blueprint Generator](https://github.com/vaibhv19/IBM-Skillbuild/tree/main/Final%20Project-Startup%20Blueprint%20Generator%20Agent) - Agentic RAG that's more organized about your startup than you are. 
   
