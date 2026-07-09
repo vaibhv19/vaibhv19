@@ -3,7 +3,6 @@
 
 *Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
-> I don't believe in tying myself to one tech stack. I pick the right tool for the problem and enjoy learning whatever helps me build better software.
 
 ## Featured 
 ### *So I Built My Own*
