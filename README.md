@@ -5,7 +5,7 @@
 
 
 ## Featured 
-### *So I Built My Own*
+### *So I Built*
 * **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
 
 ### *Academic Milestones- Formal Coursework Projects*
