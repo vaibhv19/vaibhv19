@@ -5,8 +5,21 @@
 
 
 ## Featured 
-### *So I Built*
-* **[CheckMate Analyze](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
+### *Actively Working On*
+* **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
+* **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Job tracker that outgrew its own name.
+* **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG system that admits when it doesn't know, unlike me.
+* **[Conclave](https://github.com/vaibhv19/Conclave)** — Put Claude, GPT, and Gemini in one room so I'd stop pasting between tabs.
+* **[Foundry](https://github.com/vaibhv19/Foundry)** — Three AI agents argue about your startup so you don't have to. It also remembers what it argued.
+* **[Synod](https://github.com/vaibhv19/Synod)** — Same meeting room, rebuilt in Python to see what actually breaks differently.
+* **[StudyLink](https://github.com/vaibhv19/StudyLink)** — Study notes that don't vanish, and old textbooks that don't either.
+* **[Vigil](https://github.com/vaibhv19/Vigil)** — Watches AI agents run in a sandbox, in case they get ideas.
+
+### *System Integrity & DevSecOps Guardrails*
+
+* **[Aegis](https://github.com/vaibhv19/Aegis)** — Tests my own apps so I don't have to pretend they work.
+* **[Pulse](https://github.com/vaibhv19/Pulse)** — Finds out how many users it takes to break something I built.
+* **[Warden](https://github.com/vaibhv19/Warden)** — Politely tries to break into my own apps before someone else does. 
 
 ### *Academic Milestones- Formal Coursework Projects*
 * **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. College happened to give me marks for it.
