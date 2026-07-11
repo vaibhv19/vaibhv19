@@ -4,7 +4,7 @@
 *Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
 
-## Featured 
+## My Work
 ### *Actively Working On*
 * **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
 * **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Job tracker that outgrew its own name.
