@@ -59,6 +59,14 @@
 - *Documenting the process* - Sharing projects, experiments, and lessons learned along the way
 - *Continuous self-improvement* - Balancing technology, fitness, learning, and personal growth one step at a time
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
+[![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vaibhv_19)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhv19)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gvaibhav.business@gmail.com)
+
 ### Philosophy
 
 > *"Learn, build, improve."* I believe the best way to understand technology is by creating with it. Every project is an opportunity to solve a real problem, sharpen my skills, and become a better engineer than I was yesterday.
@@ -73,12 +81,3 @@
 - Documenting the journey one commit at a time
 
 </details>
-
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
-[![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vaibhv_19)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhv19)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gvaibhav.business@gmail.com)
