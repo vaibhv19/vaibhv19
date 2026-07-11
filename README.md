@@ -51,13 +51,12 @@
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
 
 
-## What I'm Doing
-
-- *Building intelligent software* - Creating applications that combine AI, automation, and modern backend engineering
-- *Contributing to open source* - Learning from and giving back to the developer community
-- *Turning ideas into products* - Rapidly prototyping Projects and learning through hands-on development
-- *Documenting the process* - Sharing projects, experiments, and lessons learned along the way
-- *Continuous self-improvement* - Balancing technology, fitness, learning, and personal growth one step at a time
+## Currently Occupied With
+- *Building intelligent software* - Mostly things that didn't need to exist until I decided they did
+- *Contributing to open source* - Learning from people who write better code than me
+- *Turning ideas into products* - Prototyping fast, naming slower
+- *Documenting the process* - So future me has someone to blame
+- *Continuous self-improvement* - Gym, bugs, occasionally both at once
 
 ## Connect
 
@@ -69,15 +68,15 @@
 
 ### Philosophy
 
-> *"Learn, build, improve."* I believe the best way to understand technology is by creating with it. Every project is an opportunity to solve a real problem, sharpen my skills, and become a better engineer than I was yesterday.
+> *"Learn, build, improve."* Mostly build. The other two are what I tell people at interviews.
 
 <details>
 <summary>Random Facts</summary>
 
-- Powered by black coffee
-- Gym enthusiast (when not fighting bugs)
-- Usually builds tools for problems nobody asked to solve.
-- Can spend hours designing a project and even longer naming it
-- Documenting the journey one commit at a time
+- Coffee is a food group at this point
+- Gym enthusiast, bugs permitting
+- Names things longer than it takes to build them
+- Reading enough open source has given me opinions
+- Documents everything, reads none of it back
 
 </details>
