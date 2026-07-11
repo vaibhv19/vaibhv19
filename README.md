@@ -66,12 +66,12 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gvaibhav.business@gmail.com)
 
-### Philosophy
+### Operating Principles
 
 > *"Learn, build, improve."* Mostly build. The other two are what I tell people at interviews.
 
 <details>
-<summary>Random Facts</summary>
+<summary>Unnecessary Information</summary>
 
 - Coffee is a food group at this point
 - Gym enthusiast, bugs permitting
