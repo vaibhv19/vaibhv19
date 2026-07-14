@@ -22,7 +22,7 @@
 * **[Warden](https://github.com/vaibhv19/Warden)** — Politely tries to break into my own apps before someone else does. 
 
 ### *Academic Milestones- Formal Coursework Projects*
-* **[Litter Detection System](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. College happened to give me marks for it.
+* **[EcoLens](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. College happened to give me marks for it.
 
 ### *Technical Training Frameworks and Practical Modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — Learned a few things. Got a certificate too.
