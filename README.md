@@ -7,7 +7,7 @@
 ## My Work
 ### *Actively Working On*
 * **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
-* **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Job tracker that outgrew its own name.
+* **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
 * **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG system that admits when it doesn't know, unlike me.
 * **[Conclave](https://github.com/vaibhv19/Conclave)** — Put Claude, GPT, and Gemini in one room so I'd stop pasting between tabs.
 * **[Foundry](https://github.com/vaibhv19/Foundry)** — Three AI agents argue about your startup so you don't have to. It also remembers what it argued.
