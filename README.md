@@ -5,7 +5,7 @@
 
 
 ## My Work
-### *Actively Working On*
+### *Applied Projects*
 * **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Post-chess clarity, engine-assisted.
 * **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
 * **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG that shows its work instead of bluffing when it's unsure.
