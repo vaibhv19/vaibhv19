@@ -30,11 +30,15 @@
   * [VidyaLink](https://github.com/vaibhv19/VidyaLink) — Open-access resource vault running entirely on localStorage because server costs are a scam.
 * **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — Same, but IBM branded.
   * [Startup Blueprint Generator](https://github.com/vaibhv19/startup-blueprint-generator) — Agentic RAG that's more organized about your startup than you are.
+* **[IBM-PBEL](https://github.com/vaibhv19/IBM-PBEL)** — Four full-stack builds and a Gold-category assessment, because IBM wanted receipts.
+  * **[The Tiffin Dispatch](https://github.com/vaibhv19/food-ordering-system)** — A vintage cafe ordering experience, because dinner shouldn't feel like debugging an API.
+  * [E-commerce Website](https://github.com/vaibhv19/E--commerce-Website) — Auth, cart ledger, invoice checks — a shopping catalog that actually persists state.
+  * [Social Media Backend](https://github.com/vaibhv19/Social-Media-Backend) — Follows, feeds, and an admin who can moderate them.
+  * [Weather App](https://github.com/vaibhv19/Weather-App) — Debounced city search, weekly forecast, no drama.
 
-### *Learning Engineering and Foundational Computer Science*
-* **[DSA](https://github.com/vaibhv19/Data-Structures-and-Algorithms)** — Patterns I keep forgetting and re-learning.
-* **[Java](https://github.com/vaibhv19/Java-Practice)** — Where it all started, still hanging around.
-* **[Python](https://github.com/vaibhv19/Python-ChapterWise)** — The language everyone picks up in a weekend.
+### *Built for No Reason Other Than Wanting To*
+* **[Birthday Wish](https://github.com/vaibhv19/Happy-Birthday-Zoya)** — a birthday wish, coded instead of texted.
+* **[Portfolio-BLog](https://github.com/vaibhv19/Portfolio-BLog)** — in case you wanted the backstory too.
 
 ### *Retired Explorations and Early Builds Used to Learn System Architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — Overengineered for a to-do list, honestly.
@@ -47,6 +51,7 @@
 * **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Read the internet so I didn't have to.
 * **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — Prompted a machine, called it a project.
 * **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Practiced being organized, once.
+* **[My-Portfolio](https://github.com/vaibhv19/My-Portfolio)** — My personal portfolio.
 
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
