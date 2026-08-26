@@ -1,5 +1,5 @@
 # Hi, I'm Vaibhav
-**Gr. Noida ↔ GKP** | **Final year @ GNIOT**
+**Gr. Noida ↔ GKP** 
 
 *Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
 
