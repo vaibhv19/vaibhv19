@@ -1,7 +1,7 @@
 # Hi, I'm @vaibhv19
-**Gr. Noida ↔ GKP** 
 
-*Engineering student exploring software engineering through projects, curiosity, and lots of experimentation.*
+
+**I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** *
 
 
 ## My Work
@@ -52,9 +52,6 @@
 * **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — Prompted a machine, called it a project.
 * **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Practiced being organized, once.
 * **[My-Portfolio](https://github.com/vaibhv19/My-Portfolio)** — My personal portfolio.
-
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vaibhv19&hide_border=true)
 
 
 ## Currently Occupied With
