@@ -66,7 +66,9 @@
 
 ## Connect
 
+[![Vaibhav](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vaibhav19.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/vaibhv19.bsky.social)
 [![X](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vaibhv_19)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhv19)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhv_19/)
