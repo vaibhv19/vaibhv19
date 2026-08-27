@@ -64,7 +64,7 @@
 
 ## Currently Occupied With
 - *Public expression of an engineer identity* - Apparently building it wasn't the hard part
-- *DSA* - Somewhere between two hours and nine, depending on the day's mood
+- *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
 - *Placement season* - Applications, cold emails, and a calendar full of things labeled "interview" and "hopefully not"
 - *Writing about the work* - Turns out explaining a decision takes longer than making it
 - *Staying an engineer* - Job offer optional, identity non-negotiable
