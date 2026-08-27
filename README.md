@@ -1,7 +1,13 @@
 # Hi, I'm @vaibhv19
 
-
 **I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
+### *Some Background*
+* **[How I Work](https://vaibhav19.vercel.app/writing/how-i-work)**
+* **[Engineering Journey](https://vaibhav19.vercel.app/writing/engineering-journey)**
+* **[Identity & Influences](https://vaibhav19.vercel.app/writing/identity-and-influences)**
+* **[Why I Chose to Become an Engineer](https://vaibhav19.vercel.app/writing/why-i-chose-to-become-an-engineer)** 
+
+<br/>
 
 <a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
@@ -9,6 +15,9 @@
 <a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://bsky.app/profile/vaibhv19.bsky.social" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
+
+
+
 
 ## My Work
 
@@ -67,15 +76,6 @@
 - *Documenting the process* - So future me has someone to blame
 - *Continuous self-improvement* - Gym, bugs, occasionally both at once
 
-## Connect
-
-<a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/vaibhv19.bsky.social" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
-
 ### Operating Principles
 
 > *"Learn, build, improve."* Mostly build. The other two are what I tell people at interviews.
@@ -90,3 +90,12 @@
 - Documents everything, reads none of it back
 
 </details>
+
+## Find Me Elsewhere
+
+<a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://bsky.app/profile/vaibhv19.bsky.social" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
