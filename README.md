@@ -1,6 +1,6 @@
 # Hi, I'm @vaibhv19
 
-**I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
+### **I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
 ### *Some Background*
 * **[How I Work](https://vaibhav19.vercel.app/writing/how-i-work)**
 * **[Engineering Journey](https://vaibhav19.vercel.app/writing/engineering-journey)**
