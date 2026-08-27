@@ -7,6 +7,11 @@
 * **[Identity & Influences](https://vaibhav19.vercel.app/writing/identity-and-influences)**
 * **[Why I Chose to Become an Engineer](https://vaibhav19.vercel.app/writing/why-i-chose-to-become-an-engineer)** 
 
+
+
+> **"If you're curious how any of it works, the code says more than I could."*
+
+
 <br/>
 
 <a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
@@ -76,9 +81,6 @@
 - *Documenting the process* - So future me has someone to blame
 - *Continuous self-improvement* - Gym, bugs, occasionally both at once
 
-### Operating Principles
-
-> *"Learn, build, improve."* Mostly build. The other two are what I tell people at interviews.
 
 <details>
 <summary>Unnecessary Information</summary>
