@@ -9,19 +9,7 @@
 
 
 
-> **"If you're curious how any of it works, the code says more than I could."*
-
-
-<br/>
-
-<a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/vaibhv19.bsky.social" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
-
-
+> *"If you're curious how any of it works, the code says more than I could."*
 
 
 ## My Work
@@ -75,23 +63,11 @@
 
 
 ## Currently Occupied With
-- *Building intelligent software* - Mostly things that didn't need to exist until I decided they did
-- *Contributing to open source* - Learning from people who write better code than me
-- *Turning ideas into products* - Prototyping fast, naming slower
-- *Documenting the process* - So future me has someone to blame
-- *Continuous self-improvement* - Gym, bugs, occasionally both at once
-
-
-<details>
-<summary>Unnecessary Information</summary>
-
-- Coffee is a food group at this point
-- Gym enthusiast, bugs permitting
-- Names things longer than it takes to build them
-- Reading enough open source has given me opinions
-- Documents everything, reads none of it back
-
-</details>
+- *Public expression of an engineer identity* - Apparently building it wasn't the hard part
+- *DSA* - Somewhere between two hours and nine, depending on the day's mood
+- *Placement season* - Applications, cold emails, and a calendar full of things labeled "interview" and "hopefully not"
+- *Writing about the work* - Turns out explaining a decision takes longer than making it
+- *Staying an engineer* - Job offer optional, identity non-negotiable
 
 ## Find Me Elsewhere
 
@@ -101,3 +77,15 @@
 <a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://bsky.app/profile/vaibhv19.bsky.social" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
+
+
+<details>
+<summary>Unnecessary Information</summary>
+
+- Runs on black coffee and spite
+- Does physical training to fight digital bugs
+- Would rather rename a variable five times than ship it wrong once
+- Also paints, in case the eye for detail needed a hobby too
+- Reads classics for fun. His own documentation, never again.
+
+</details>
