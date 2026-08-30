@@ -6,7 +6,7 @@
 * **[Engineering Journey](https://vaibhav19.vercel.app/writing/engineering-journey)**
 * **[Identity & Influences](https://vaibhav19.vercel.app/writing/identity-and-influences)**
 * **[Why I Chose to Become an Engineer](https://vaibhav19.vercel.app/writing/why-i-chose-to-become-an-engineer)** 
-
+* **[North Star](https://vaibhav19.vercel.app/writing/north-star)**
 
 
 > *"If you're curious how any of it works, the code says more than I could."*
