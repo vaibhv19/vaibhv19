@@ -2,11 +2,11 @@
 
 ### **I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
 ### *Some Background*
-* **[How I Work](https://vaibhav19.vercel.app/writing/how-i-work)**
-* **[Engineering Journey](https://vaibhav19.vercel.app/writing/engineering-journey)**
-* **[Identity & Influences](https://vaibhav19.vercel.app/writing/identity-and-influences)**
-* **[Why I Chose to Become an Engineer](https://vaibhav19.vercel.app/writing/why-i-chose-to-become-an-engineer)** 
-* **[North Star](https://vaibhav19.vercel.app/writing/north-star)**
+* **[How I Work](https://vaibhv.dev/writing/how-i-work)**
+* **[Engineering Journey](https://vaibhv.dev/writing/engineering-journey)**
+* **[Identity & Influences](https://vaibhv.dev/writing/identity-and-influences)**
+* **[Why I Chose to Become an Engineer](https://vaibhv.dev/writing/why-i-chose-to-become-an-engineer)** 
+* **[North Star](https://vaibhv.dev/writing/north-star)**
 
 
 > *"If you're curious how any of it works, the code says more than I could."*
@@ -71,7 +71,7 @@
 
 ## Find Me Elsewhere
 
-<a href="https://vaibhav19.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://vaibhv.dev/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
