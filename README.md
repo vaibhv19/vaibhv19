@@ -32,6 +32,7 @@
 
 ### *Academic Milestones — Formal Coursework Projects*
 * **[EcoLens](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. It's better at it than most people.
+* **[Smart Surveillance System](https://github.com/vaibhv19/Smart-Survellience-System)** - Built to detect what shouldn't be there.
 
 ### *Technical Training Frameworks and Practical Modules*
 * **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — A structured program covering [whatever it actually covered]. Left with a certificate and the projects below.
@@ -47,6 +48,8 @@
 ### *Built for No Reason Other Than Wanting To*
 * **[Birthday Wish](https://github.com/vaibhv19/Happy-Birthday-Zoya)** — a birthday wish, coded instead of texted.
 * **[Portfolio-BLog](https://github.com/vaibhv19/Portfolio-BLog)** — The long version, for anyone the one-liners above didn't convince.
+* **[Resume-LaTeX](https://github.com/vaibhv19/Resume-LaTeX)** - Turns career anxiety into a PDF.
+* **[How-to-maintain-Opensource](https://github.com/vaibhv19/How-to-maintain-Opensource)** - A guide to keeping open-source projects alive.
 
 ### *Retired Explorations and Early Builds Used to Learn System Architecture*
 * **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — A to-do list wearing a lot of unnecessary architecture.
@@ -63,11 +66,15 @@
 
 
 ## Currently Occupied With
-- *Public expression of an engineer identity* - Apparently building it wasn't the hard part
+- *Public expression of an engineer identity* - Building it wasn't the hard part
 - *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
-- *Placement season* - Applications, cold emails, and a calendar full of things labeled "interview" and "hopefully not"
-- *Writing about the work* - Turns out explaining a decision takes longer than making it
+- *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)* - Explaining a decision takes longer than making it
 - *Staying an engineer* - Job offer optional, identity non-negotiable
+
+### Recent Writing
+
+* **[The Night an AI Agent Almost Ate My Drive | Technical Writing](https://vaibhv19.dev/writing/the-night-an-ai-agent-almost-ate-my-drive)**
+
 
 ## Find Me Elsewhere
 
@@ -79,13 +86,26 @@
 <a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
 
 
+## Extraa
+
+- *Exploring Freelancing*
+- *Keeping projects alive and readable instead of abandoning them after v1.*
+- *Contributing to Open Source* - Trying to give back to community.
+- *Helping build [1nfinity.online](https://1nfinity.online)*
+
+## Just Me
+
+**Who is @vaibhv19 apart from code?**Check out @ https://vaibhv19.dev/life
+
 <details>
 <summary>Unnecessary Information</summary>
 
-- Runs on black coffee and spite
+- Runs on black coffee
 - Does physical training to fight digital bugs
 - Would rather rename a variable five times than ship it wrong once
-- Also paints, in case the eye for detail needed a hobby too
+- Also paints
 - Reads classics for fun. His own documentation, never again.
 
 </details>
+
+
