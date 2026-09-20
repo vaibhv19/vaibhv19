@@ -74,6 +74,7 @@
 ### Recent Writing
 
 * **[The Night an AI Agent Almost Ate My Drive | Technical Writing](https://vaibhv19.dev/writing/the-night-an-ai-agent-almost-ate-my-drive)**
+* **[INTROVERT WITH AI | Technical Writing](https://vaibhv19.dev/writing/introvert-with-ai)**
 
 
 ## Find Me Elsewhere
