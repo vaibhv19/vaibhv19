@@ -86,16 +86,16 @@
 <a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
 
 
+## Just Me
+
+* **Who is @vaibhv19 apart from code?** Check out more @ https://vaibhv19.dev/life
+
 ## Extraa
 
 - *Exploring Freelancing*
 - *Keeping projects alive and readable instead of abandoning them after v1.*
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
-
-## Just Me
-
-**Who is @vaibhv19 apart from code?**Check out @ https://vaibhv19.dev/life
 
 <details>
 <summary>Unnecessary Information</summary>
