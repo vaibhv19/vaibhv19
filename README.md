@@ -2,11 +2,7 @@
 
 ### **I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
 ### *Some Background*
-* **[How I Work](https://vaibhv19.dev/writing/how-i-work)**
-* **[Engineering Journey](https://vaibhv19.dev/writing/engineering-journey)**
-* **[Identity & Influences](https://vaibhv19.dev/writing/identity-and-influences)**
-* **[Why I Chose to Become an Engineer](https://vaibhv19.dev/writing/why-i-chose-to-become-an-engineer)** 
-* **[North Star](https://vaibhv19.dev/writing/north-star)**
+**[How I Work](https://vaibhv19.dev/writing/how-i-work)** | **[Engineering Journey](https://vaibhv19.dev/writing/engineering-journey)** | **[Identity & Influences](https://vaibhv19.dev/writing/identity-and-influences)** | **[Why Engineering](https://vaibhv19.dev/writing/why-i-chose-to-become-an-engineer)** | **[North Star](https://vaibhv19.dev/writing/north-star)**
 
 
 > *"If you're curious how any of it works, the code says more than I could."*
@@ -103,7 +99,7 @@
 
 ## Extraa
 
-- *Exploring Freelancing*- more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
+- *Exploring Freelancing* - more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
 - *Keeping projects alive and readable instead of abandoning them after v1.*
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
