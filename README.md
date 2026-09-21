@@ -13,9 +13,9 @@
 
 ## Checkout
  
-* 🚀 **[Trajectory](https://trajectory-mu-six.vercel.app)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
+* 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
 * ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
-* ♟️ **[CheckMate](https://check-mate-analyse.vercel.app)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
+* ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
 * 🌐 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
 
 
@@ -96,7 +96,7 @@
 
 ## Just Me
 
-* **Who is @vaibhv19 apart from code?** Check out more @ https://vaibhv19.dev/life
+* **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
 
 ## Extraa
 
