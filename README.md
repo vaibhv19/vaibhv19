@@ -11,6 +11,13 @@
 
 > *"If you're curious how any of it works, the code says more than I could."*
 
+## Checkout
+ 
+* **[Trajectory](https://trajectory-mu-six.vercel.app)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
+* **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
+* **[CheckMate](https://check-mate-analyse.vercel.app)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
+* **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
+
 
 ## My Work
 
@@ -97,6 +104,10 @@
 - *Keeping projects alive and readable instead of abandoning them after v1.*
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
+
+## Principle
+
+> *Build for yourself. Build for others. Ship for people.*
 
 <details>
 <summary>Unnecessary Information</summary>
