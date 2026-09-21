@@ -13,63 +13,63 @@
 
 ## Checkout
  
-* **[Trajectory](https://trajectory-mu-six.vercel.app)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
-* **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
-* **[CheckMate](https://check-mate-analyse.vercel.app)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
-* **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
+* 🚀 **[Trajectory](https://trajectory-mu-six.vercel.app)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
+* ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
+* ♟️ **[CheckMate](https://check-mate-analyse.vercel.app)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
+* 🌐 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
 
 
 ## My Work
 
 ### *Applied Projects*
-* **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Tells you exactly which move ruined your day. A few hours too late to help.
-* **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
-* **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG that shows its work instead of bluffing when it's unsure.
-* **[Conclave](https://github.com/vaibhv19/Conclave)** — Models arguing in one room instead of eight browser tabs.
-* **[Foundry](https://github.com/vaibhv19/Foundry)** — Three AI agents argue about your startup so you don't have to. It also remembers what it argued.
-* **[Shard](https://github.com/vaibhv19/Shard)** — Building my own Redis so I stop trusting the real one blindly.
-* **[Cairn](https://github.com/vaibhv19/Cairn)** — Same cache, rebuilt in Java, to see which language complains less.
-* **[StudyLink](https://github.com/vaibhv19/StudyLink)** — Study notes that don't vanish, and old textbooks that don't either.
-* **[Vigil](https://github.com/vaibhv19/Vigil)** — Watches AI agents run in a sandbox, in case they get ideas.
+* ♟️ **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Tells you exactly which move ruined your day. A few hours too late to help.
+* 📈 **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
+* 🔥 **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG that shows its work instead of bluffing when it's unsure.
+* 🏛️ **[Conclave](https://github.com/vaibhv19/Conclave)** — Models arguing in one room instead of eight browser tabs.
+* ⚒️ **[Foundry](https://github.com/vaibhv19/Foundry)** — Three AI agents argue about your startup so you don't have to. It also remembers what it argued.
+* 🧩 **[Shard](https://github.com/vaibhv19/Shard)** — Building my own Redis so I stop trusting the real one blindly.
+* 🪨 **[Cairn](https://github.com/vaibhv19/Cairn)** — Same cache, rebuilt in Java, to see which language complains less.
+* 📚 **[StudyLink](https://github.com/vaibhv19/StudyLink)** — Study notes that don't vanish, and old textbooks that don't either.
+* 🕯️ **[Vigil](https://github.com/vaibhv19/Vigil)** — Watches AI agents run in a sandbox, in case they get ideas.
 
 ### *System Integrity & DevSecOps Guardrails*
-* **[Aegis](https://github.com/vaibhv19/Aegis)** — Tests my own apps so I don't have to pretend they work.
-* **[Pulse](https://github.com/vaibhv19/Pulse)** — Finds out how many users it takes to break something I built.
-* **[Warden](https://github.com/vaibhv19/Warden)** — Politely tries to break into my own apps before someone else does.
+* 🛡️ **[Aegis](https://github.com/vaibhv19/Aegis)** — Tests my own apps so I don't have to pretend they work.
+* 💓 **[Pulse](https://github.com/vaibhv19/Pulse)** — Finds out how many users it takes to break something I built.
+* 🔐 **[Warden](https://github.com/vaibhv19/Warden)** — Politely tries to break into my own apps before someone else does.
 
 ### *Academic Milestones — Formal Coursework Projects*
-* **[EcoLens](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. It's better at it than most people.
-* **[Smart Surveillance System](https://github.com/vaibhv19/Smart-Survellience-System)** - Built to detect what shouldn't be there.
+* 🌱 **[EcoLens](https://github.com/vaibhv19/Automated-Litter-detection-System)** — Taught a model to spot litter. It's better at it than most people.
+* 📹 **[Smart Surveillance System](https://github.com/vaibhv19/Smart-Survellience-System)** - Built to detect what shouldn't be there.
 
 ### *Technical Training Frameworks and Practical Modules*
-* **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — A structured program covering [whatever it actually covered]. Left with a certificate and the projects below.
-  * [VidyaLink](https://github.com/vaibhv19/VidyaLink) — Open-access resource vault running entirely on localStorage because server costs are a scam.
-* **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — IBM's version of the same idea.
-  * [Startup Blueprint Generator](https://github.com/vaibhv19/startup-blueprint-generator) — Agentic RAG that's more organized about your startup than you are.
-* **[IBM-PBEL](https://github.com/vaibhv19/IBM-PBEL)** — Four full-stack builds, assessed and scored by IBM.
-  * **[The Tiffin Dispatch](https://github.com/vaibhv19/food-ordering-system)** — A vintage cafe ordering experience, because dinner shouldn't feel like debugging an API.
-  * [E-commerce Website](https://github.com/vaibhv19/E--commerce-Website) — A shopping cart that remembers what's in it. Unlike me.
-  * [Social Media Backend](https://github.com/vaibhv19/Social-Media-Backend) — Follows, feeds, and enough moderation tooling to run an actual platform.
-  * [Weather App](https://github.com/vaibhv19/Weather-App) — Tells you it's going to rain. It's usually right, which is somehow worse.
+* 🎓 **[Lenovo LEAP NextGen Scholar](https://github.com/vaibhv19/Lenovo-leap-Internship)** — A structured program covering [whatever it actually covered]. Left with a certificate and the projects below.
+  * 📖 [VidyaLink](https://github.com/vaibhv19/VidyaLink) — Open-access resource vault running entirely on localStorage because server costs are a scam.
+* 🎓 **[IBM SkillsBuild](https://github.com/vaibhv19/IBM-Skillbuild)** — IBM's version of the same idea.
+  * 📐 [Startup Blueprint Generator](https://github.com/vaibhv19/startup-blueprint-generator) — Agentic RAG that's more organized about your startup than you are.
+* 🎓 **[IBM-PBEL](https://github.com/vaibhv19/IBM-PBEL)** — Four full-stack builds, assessed and scored by IBM.
+  * 🍱 **[The Tiffin Dispatch](https://github.com/vaibhv19/food-ordering-system)** — A vintage cafe ordering experience, because dinner shouldn't feel like debugging an API.
+  * 🛒 [E-commerce Website](https://github.com/vaibhv19/E--commerce-Website) — A shopping cart that remembers what's in it. Unlike me.
+  * 💬 [Social Media Backend](https://github.com/vaibhv19/Social-Media-Backend) — Follows, feeds, and enough moderation tooling to run an actual platform.
+  * 🌦️ [Weather App](https://github.com/vaibhv19/Weather-App) — Tells you it's going to rain. It's usually right, which is somehow worse.
 
 ### *Built for No Reason Other Than Wanting To*
-* **[Birthday Wish](https://github.com/vaibhv19/Happy-Birthday-Zoya)** — a birthday wish, coded instead of texted.
-* **[Portfolio-BLog](https://github.com/vaibhv19/Portfolio-BLog)** — The long version, for anyone the one-liners above didn't convince.
-* **[Resume-LaTeX](https://github.com/vaibhv19/Resume-LaTeX)** - Turns career anxiety into a PDF.
-* **[How-to-maintain-Opensource](https://github.com/vaibhv19/How-to-maintain-Opensource)** - A guide to keeping open-source projects alive.
+* 🎂 **[Birthday Wish](https://github.com/vaibhv19/Happy-Birthday-Zoya)** — a birthday wish, coded instead of texted.
+* ✍️ **[Portfolio-BLog](https://github.com/vaibhv19/Portfolio-BLog)** — The long version, for anyone the one-liners above didn't convince.
+* 📄 **[Resume-LaTeX](https://github.com/vaibhv19/Resume-LaTeX)** - Turns career anxiety into a PDF.
+* 📘 **[How-to-maintain-Opensource](https://github.com/vaibhv19/How-to-maintain-Opensource)** - A guide to keeping open-source projects alive.
 
 ### *Retired Explorations and Early Builds Used to Learn System Architecture*
-* **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — A to-do list wearing a lot of unnecessary architecture.
-* **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Made a computer listen so I didn't have to.
-* **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Everyone builds one of these eventually. Mine works, allegedly.
-* **[Ticket Booking System](https://github.com/vaibhv19/Ticket-booking-system)** — Concurrency practice disguised as a booking app.
-* **[Desktop Applications Suite](https://github.com/vaibhv19/Desktop-Applications-Suite)** — Because browsers felt too easy.
-* **[StreamVerse UI](https://github.com/vaibhv19/StreamVerse-UI)** — AI helped. I take the credit, mostly.
-* **[High-Performance Socket Servers](https://github.com/vaibhv19/High-Performance-Socket-Servers)** — Talked to sockets until they talked back.
-* **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Read the internet so I didn't have to. Regretted it slightly less than expected.
-* **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — Prompted a machine, called it a project. Not proud, not sorry.
-* **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Practiced being organized, once.
-* **[My-Portfolio](https://github.com/vaibhv19/My-Portfolio)** — The portfolio before the portfolio. We don't discuss v1.
+* 🏋️ **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — A to-do list wearing a lot of unnecessary architecture.
+* 🎙️ **[Audio Transcriber](https://github.com/vaibhv19/AI-Audio-Transcriber)** — Made a computer listen so I didn't have to.
+* 🔑 **[Authentication Service](https://github.com/vaibhv19/Authentication-Service)** — Everyone builds one of these eventually. Mine works, allegedly.
+* 🎫 **[Ticket Booking System](https://github.com/vaibhv19/Ticket-booking-system)** — Concurrency practice disguised as a booking app.
+* 🖥️ **[Desktop Applications Suite](https://github.com/vaibhv19/Desktop-Applications-Suite)** — Because browsers felt too easy.
+* 📺 **[StreamVerse UI](https://github.com/vaibhv19/StreamVerse-UI)** — AI helped. I take the credit, mostly.
+* 🔌 **[High-Performance Socket Servers](https://github.com/vaibhv19/High-Performance-Socket-Servers)** — Talked to sockets until they talked back.
+* 🔎 **[Smart Research Assistant](https://github.com/vaibhv19/Smart-Research-Assistant)** — Read the internet so I didn't have to. Regretted it slightly less than expected.
+* ✨ **[Content Generator Platform](https://github.com/vaibhv19/AI-Content-Generator-Platform)** — Prompted a machine, called it a project. Not proud, not sorry.
+* 📊 **[CA Portfolio](https://github.com/vaibhv19/CA----Portfolio)** — Practiced being organized, once.
+* 🗂️ **[My-Portfolio](https://github.com/vaibhv19/My-Portfolio)** — The portfolio before the portfolio. We don't discuss v1.
 
 
 ## Currently Occupied With
@@ -78,7 +78,7 @@
 - *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)* - Explaining a decision takes longer than making it
 - *Staying an engineer* - Job offer optional, identity non-negotiable
 
-### Recent Writing
+## Recent Writing
 
 * **[The Night an AI Agent Almost Ate My Drive | Technical Writing](https://vaibhv19.dev/writing/the-night-an-ai-agent-almost-ate-my-drive)**
 * **[INTROVERT WITH AI | Technical Writing](https://vaibhv19.dev/writing/introvert-with-ai)**
