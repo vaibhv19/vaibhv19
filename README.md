@@ -13,11 +13,12 @@
 
 ## Checkout
  
-* 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
 * ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
+* 😎 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
+* 🌐 **[Life](https://life.vaibhv19.dev)** — My own social-media profile, except I own the platform.
+* 🤝 **[Work With Me](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
+* 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
 * ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
-* 🌐 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
-
 
 ## My Work
 
@@ -57,6 +58,8 @@
 * ✍️ **[Portfolio-BLog](https://github.com/vaibhv19/Portfolio-BLog)** — The long version, for anyone the one-liners above didn't convince.
 * 📄 **[Resume-LaTeX](https://github.com/vaibhv19/Resume-LaTeX)** - Turns career anxiety into a PDF.
 * 📘 **[How-to-maintain-Opensource](https://github.com/vaibhv19/How-to-maintain-Opensource)** - A guide to keeping open-source projects alive.
+* 🌐 **[Life](https://github.com/vaibhv19/life)** — A personal, non-engineering space. Photos, moments, the parts of me that don't compile.
+* 🤝 **[Work With Me](https://github.com/vaibhv19/workwith)** — A page for hiring me, built before there's proof I'm worth hiring.
 
 ### *Retired Explorations and Early Builds Used to Learn System Architecture*
 * 🏋️ **[Fitness Application](https://github.com/vaibhv19/AI-Powered-Fittness-application)** — A to-do list wearing a lot of unnecessary architecture.
@@ -100,7 +103,7 @@
 
 ## Extraa
 
-- *Exploring Freelancing*
+- *Exploring Freelancing*- more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
 - *Keeping projects alive and readable instead of abandoning them after v1.*
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
