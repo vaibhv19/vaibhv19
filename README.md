@@ -101,7 +101,7 @@
 ## Extraa
 
 - *Exploring Freelancing* - more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
-- *Keeping projects alive and readable instead of abandoning them after v1.*([Read Blog](https://vaibhv19.dev/writing/how-i-maintain-open-source))
+- *Keeping projects alive and readable instead of abandoning them after v1.* ([Read Blog](https://vaibhv19.dev/writing/how-i-maintain-open-source))
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
 
