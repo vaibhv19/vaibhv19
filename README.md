@@ -12,13 +12,7 @@
 * ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
 * 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
 * ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
-
-## On My Domain
- 
-
 * 😎 **[Website](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
-* 🌐 **[Life](https://life.vaibhv19.dev)** — My own social-media profile, except I own the platform.
-* 🤝 **[Work With Me](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 ## My Work
 
 ### *Applied Projects*
@@ -101,6 +95,11 @@
 ## Just Me
 
 * **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
+
+## Work With Me
+
+*  https://workwith.vaibhv19.dev- **This is where that conversation starts**
+
 
 ## Principle
 
