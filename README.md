@@ -98,12 +98,10 @@
 
 ## Work With Me
 
-*  https://workwith.vaibhv19.dev- **This is where that conversation starts**
-
-
+* **[workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 ## Principle
 
-> *Build for yourself. Build for others. Ship for people. -- First make it exist then make it better. *
+> *Build for yourself. Build for others. Ship for people.First make it exist then make it better.*
 
 <details>
 <summary>Unnecessary Information</summary>
