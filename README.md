@@ -16,7 +16,7 @@
 ## On My Domain
  
 
-* 😎 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
+* 😎 **[Website](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
 * 🌐 **[Life](https://life.vaibhv19.dev)** — My own social-media profile, except I own the platform.
 * 🤝 **[Work With Me](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 ## My Work
