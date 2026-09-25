@@ -78,6 +78,7 @@
 - *Public expression of an engineer identity* - Building it wasn't the hard part
 - *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
 - *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)* - Explaining a decision takes longer than making it
+- *Helping build [1nfinity.online](https://1nfinity.online)*
 - *Staying an engineer* - Job offer optional, identity non-negotiable
 
 ## Recent Writing
@@ -100,9 +101,6 @@
 ## Just Me
 
 * **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
-
-## Extra
-- *Helping build [1nfinity.online](https://1nfinity.online)*
 
 ## Principle
 
