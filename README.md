@@ -8,7 +8,7 @@
 
 > *Build for yourself. Build for others. Ship for people. First make it exist then make it better.*
 
-> *"If you're curious how any of it works, the code says more than I could."*
+* *"If you're curious how any of it works, the code says more than I could."*
 
 ## Checkout
  
@@ -93,6 +93,16 @@
 
 * **[workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 
+
+## Find Me Elsewhere
+
+<a href="https://vaibhv19.dev/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://bsky.app/profile/vaibhv19.dev" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
+<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
+
 <details>
 <summary>Unnecessary Information</summary>
 
@@ -103,13 +113,3 @@
 - Reads classics for fun. His own documentation, never again.
 
 </details>
-
-
-## Find Me Elsewhere
-
-<a href="https://vaibhv19.dev/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/vaibhv19.dev" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
