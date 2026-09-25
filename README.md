@@ -1,6 +1,6 @@
 # Hi, I'm @vaibhv19
 
-### **I build things to understand them. Everything here is open source, in case that's useful to someone else figuring out the same thing.** 
+### **I build things for fun. Everything here is open source, in case that's useful to someone else.** 
 ### *Some Background*
 **[How I Work](https://vaibhv19.dev/writing/how-i-work)** | **[Engineering Journey](https://vaibhv19.dev/writing/engineering-journey)** | **[Identity & Influences](https://vaibhv19.dev/writing/identity-and-influences)** | **[Why Engineering](https://vaibhv19.dev/writing/why-i-chose-to-become-an-engineer)** | **[North Star](https://vaibhv19.dev/writing/north-star)**
 
@@ -10,12 +10,15 @@
 ## Checkout
  
 * ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
-* 😎 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
-* 🌐 **[Life](https://life.vaibhv19.dev)** — My own social-media profile, except I own the platform.
-* 🤝 **[Work With Me](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 * 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
 * ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
 
+## On My Domain
+ 
+
+* 😎 **[Portfolio](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
+* 🌐 **[Life](https://life.vaibhv19.dev)** — My own social-media profile, except I own the platform.
+* 🤝 **[Work With Me](https://workwith.vaibhv19.dev)** — This is where that conversation starts.
 ## My Work
 
 ### *Applied Projects*
@@ -101,13 +104,13 @@
 ## Extraa
 
 - *Exploring Freelancing* - more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
-- *Keeping projects alive and readable instead of abandoning them after v1.* ([Read Blog](https://vaibhv19.dev/writing/how-i-maintain-open-source))
+- *Keeping projects alive and readable instead of abandoning them after v1. -->* [Read Blog](https://vaibhv19.dev/writing/how-i-maintain-open-source)
 - *Contributing to Open Source* - Trying to give back to community.
 - *Helping build [1nfinity.online](https://1nfinity.online)*
 
 ## Principle
 
-> *Build for yourself. Build for others. Ship for people.*
+> *Build for yourself. Build for others. Ship for people. -- First make it exist then make it better. *
 
 <details>
 <summary>Unnecessary Information</summary>
