@@ -101,11 +101,7 @@
 
 * **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
 
-## Extraa
-
-- *Exploring Freelancing* - more of this @ [workwith.vaibhv19.dev](https://workwith.vaibhv19.dev)
-- *Keeping projects alive and readable instead of abandoning them after v1. -->* [Read Blog](https://vaibhv19.dev/writing/how-i-maintain-open-source)
-- *Contributing to Open Source* - Trying to give back to community.
+## Extra
 - *Helping build [1nfinity.online](https://1nfinity.online)*
 
 ## Principle
