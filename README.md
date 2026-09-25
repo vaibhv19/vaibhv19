@@ -8,7 +8,7 @@
 
 > *Build for yourself. Build for others. Ship for people. First make it exist then make it better.*
 
-* *"If you're curious how any of it works, the code says more than I could."*
+**"If you're curious how any of it works, the code says more than I could."**
 
 ## Checkout
  
