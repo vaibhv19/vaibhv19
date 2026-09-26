@@ -14,7 +14,6 @@
 - *Public expression of an engineer identity* - Building it wasn't the hard part
 - *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
 - *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)*
-- *Helping build [1nfinity.online](https://1nfinity.online)*
 - *Staying an engineer* - Job offer optional, identity non-negotiable
 
 ## Work With Me
