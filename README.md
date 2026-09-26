@@ -6,7 +6,7 @@
 
 ## Principle
 
-> *Build for yourself. Build for others. Ship for people. First make it exist then make it better.*
+> *Build for yourself. Build for others. Ship for people. First make it exist, then make it better.*
 
 **"If you're curious how any of it works, the code says more than I could."**
 
@@ -17,7 +17,7 @@
 * ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
 * 😎 **[Website](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
 
-## Some of my Works
+## Some of my Work
 * ♟️ **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Tells you exactly which move ruined your day. A few hours too late to help.
 * 📈 **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
 * 🔥 **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG that shows its work instead of bluffing when it's unsure.
