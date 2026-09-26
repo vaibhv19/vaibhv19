@@ -13,20 +13,9 @@
 ## Currently Occupied With
 - *Public expression of an engineer identity* - Building it wasn't the hard part
 - *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
-- *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)* - Explaining a decision takes longer than making it
+- *Writing about the work at [vaibhv19.dev](https://vaibhv19.dev)*
 - *Helping build [1nfinity.online](https://1nfinity.online)*
 - *Staying an engineer* - Job offer optional, identity non-negotiable
-
-## Recent Writing
-
-* **[How I Maintain Open Source | Technical Writing](https://vaibhv19.dev/writing/how-i-maintain-open-source)**
-* **[The Night an AI Agent Almost Ate My Drive | Technical Writing](https://vaibhv19.dev/writing/the-night-an-ai-agent-almost-ate-my-drive)**
-* **[INTROVERT WITH AI | Technical Writing](https://vaibhv19.dev/writing/introvert-with-ai)**
-
-
-## Just Me
-
-* **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
 
 ## Work With Me
 
@@ -41,6 +30,10 @@
 <a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:x.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://bsky.app/profile/vaibhv19.dev" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:bluesky.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
 <a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
+
+## Just Me
+
+* **Who is @vaibhv19 apart from code?** Check out more @ https://life.vaibhv19.dev
 
 <details>
 <summary>Unnecessary Information</summary>
