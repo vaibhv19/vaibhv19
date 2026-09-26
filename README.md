@@ -10,27 +10,6 @@
 
 **"If you're curious how any of it works, the code says more than I could."**
 
-## Checkout
- 
-* ♾️ **[1nfinity](https://1nfinity.online)** — Live product for a startup I help run, not a weekend build.
-* 🚀 **[Trajectory](https://trajectory.vaibhv19.dev)** — My favorite build. A job-application tracker I use daily. Worth a look if you're job hunting yourself.
-* ♟️ **[CheckMate](https://checkmate.vaibhv19.dev)** — Chess analysis that tells you exactly where the game turned. Built, shipped, actively used.
-* 😎 **[Website](https://vaibhv19.dev)** — The clearest picture of how I think and build. Start here if you want the full story.
-
-## Some of my Work
-* ♟️ **[CheckMate](https://github.com/vaibhv19/Check-Mate-Analyse)** — Tells you exactly which move ruined your day. A few hours too late to help.
-* 📈 **[Trajectory](https://github.com/vaibhv19/Trajectory)** — Started as a spreadsheet fix, ended up needing its own AWS bill.
-* 🔥 **[Phoenix](https://github.com/vaibhv19/Phoenix)** — RAG that shows its work instead of bluffing when it's unsure.
-* 🏛️ **[Conclave](https://github.com/vaibhv19/Conclave)** — Models arguing in one room instead of eight browser tabs.
-* ⚒️ **[Foundry](https://github.com/vaibhv19/Foundry)** — Three AI agents argue about your startup so you don't have to. It also remembers what it argued.
-* 🧩 **[Shard](https://github.com/vaibhv19/Shard)** — Building my own Redis so I stop trusting the real one blindly.
-* 🪨 **[Cairn](https://github.com/vaibhv19/Cairn)** — Same cache, rebuilt in Java, to see which language complains less.
-* 📚 **[StudyLink](https://github.com/vaibhv19/StudyLink)** — Study notes that don't vanish, and old textbooks that don't either.
-* 🕯️ **[Vigil](https://github.com/vaibhv19/Vigil)** — Watches AI agents run in a sandbox, in case they get ideas.
-* 🛡️ **[Aegis](https://github.com/vaibhv19/Aegis)** — Tests my own apps so I don't have to pretend they work.
-* 💓 **[Pulse](https://github.com/vaibhv19/Pulse)** — Finds out how many users it takes to break something I built.
-* 🔐 **[Warden](https://github.com/vaibhv19/Warden)** — Politely tries to break into my own apps before someone else does.
-
 ## Currently Occupied With
 - *Public expression of an engineer identity* - Building it wasn't the hard part
 - *Algorithmic problem solving* - Somewhere between two hours and nine, depending on the day's mood
