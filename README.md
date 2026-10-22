@@ -23,12 +23,13 @@
 
 ## Find Me Elsewhere
 
-<a href="https://vaibhv19.dev/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:global-line.svg?color=%23181717"><img src="https://api.iconify.design/ri:global-line.svg?color=%23181717" alt="Portfolio" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23181717" alt="LinkedIn" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://www.threads.net/@vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:threads.svg?color=%23181717" alt="Threads" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://x.com/vaibhv_19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23181717"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%23181717" alt="X" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/vaibhv19.dev" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri:bluesky-fill.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/ri:bluesky-fill.svg?color=%23181717"><img src="https://api.iconify.design/ri:bluesky-fill.svg?color=%23181717" alt="Bluesky" width="22" height="22"></picture></a>&nbsp;&nbsp;
-<a href="https://github.com/vaibhv19" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="22" height="22"></picture></a>
+
+[![Portfolio](https://api.iconify.design/ri/global-line.svg?color=%23181717)](https://vaibhv19.dev/) &nbsp;
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/181717)](https://www.linkedin.com/in/vaibhv19) &nbsp;
+[![Threads](https://cdn.simpleicons.org/threads/181717)](https://www.threads.net/@vaibhv_19) &nbsp;
+[![X](https://cdn.simpleicons.org/x/181717)](https://x.com/vaibhv_19) &nbsp;
+[![Bluesky](https://cdn.simpleicons.org/bluesky/181717)](https://bsky.app/profile/vaibhv19.dev) &nbsp;
+[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/vaibhv19)
 
 ## Just Me
 
