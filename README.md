@@ -24,12 +24,13 @@
 ## Find Me Elsewhere
 
 
-[![Portfolio](https://api.iconify.design/ri/global-line.svg?color=%23181717)](https://vaibhv19.dev/) &nbsp;
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/181717)](https://www.linkedin.com/in/vaibhv19) &nbsp;
-[![Threads](https://cdn.simpleicons.org/threads/181717)](https://www.threads.net/@vaibhv_19) &nbsp;
-[![X](https://cdn.simpleicons.org/x/181717)](https://x.com/vaibhv_19) &nbsp;
-[![Bluesky](https://cdn.simpleicons.org/bluesky/181717)](https://bsky.app/profile/vaibhv19.dev) &nbsp;
-[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/vaibhv19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=googlechrome&logoColor=white)](https://vaibhv19.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhv19)
+[![Threads](https://img.shields.io/badge/Threads-181717?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@vaibhv_19)
+[![X](https://img.shields.io/badge/X-181717?style=flat&logo=x&logoColor=white)](https://x.com/vaibhv_19)
+[![Bluesky](https://img.shields.io/badge/Bluesky-181717?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/vaibhv19.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vaibhv19)
+
 
 ## Just Me
 
