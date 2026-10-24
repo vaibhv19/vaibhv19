@@ -1,8 +1,6 @@
 # Hi, I'm @vaibhv19
 
 ### **I build things for fun. Everything here is open source, in case that's useful to someone else.** 
-### *Some Background*
-**[How I Work](https://vaibhv19.dev/writing/how-i-work)** | **[Engineering Journey](https://vaibhv19.dev/writing/engineering-journey)** | **[Identity & Influences](https://vaibhv19.dev/writing/identity-and-influences)** | **[Why Engineering](https://vaibhv19.dev/writing/why-i-chose-to-become-an-engineer)** | **[North Star](https://vaibhv19.dev/writing/north-star)**
 
 ## Principle
 
